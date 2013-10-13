@@ -1,0 +1,1 @@
+Vim is too hard for a beginner !!! 
